@@ -16,7 +16,7 @@ var usgs = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USG
 
 	var volcanoIcon = {
 		iconUrl: 'marker.png',
-		iconSize: [15,15]
+		iconSize: [12,12]
 	};
 	var customIcon = L.icon(volcanoIcon);
 	var markerOptions = {
@@ -27,7 +27,7 @@ var usgs = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USG
 
 	var tsunamiIcon = {
 		iconUrl: 'tsunami.png',
-		iconSize: [15,15]
+		iconSize: [12,12]
 	};
 	var customIcon1 = L.icon(tsunamiIcon);
 	var markerOptions1 = {
@@ -37,7 +37,7 @@ var usgs = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USG
 
 	var quakeIcon = {
 		iconUrl: 'earthquake.png',
-		iconSize: [15,15]
+		iconSize: [12,12]
 	};
 	var customIcon2 = L.icon(quakeIcon);
 	var markerOptions2 = {
