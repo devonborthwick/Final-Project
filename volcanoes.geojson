@@ -1,0 +1,9497 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1800,
+    "Mo":10,
+    "Dy":30,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.792,-9.229 ]
+    },
+    "properties": {
+    "Year":1800,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kyejo",
+    "Location":"Africa-E",
+    "Country":"Tanzania",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18,46.2 ]
+    },
+    "properties": {
+    "Year":1800,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"St. Helens",
+    "Location":"US-Washington",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.049,39.099 ]
+    },
+    "properties": {
+    "Year":1801,
+    "Mo":8,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Chokaisan",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":8,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1803,
+    "Mo":7,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1803,
+    "Mo":11,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.38,42.688 ]
+    },
+    "properties": {
+    "Year":1804,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Shikotsu",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1805,
+    "Mo":8,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.18,13.33 ]
+    },
+    "properties": {
+    "Year":1812,
+    "Mo":4,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Soufriere St. Vincent",
+    "Location":"W Indies",
+    "Country":"St. Vincent & the Grenadines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":56,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Year":1812,
+    "Mo":8,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Awu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":953,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1813,
+    "Mo":5,
+    "Dy":null,
+    "Tsu":3221,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1814,
+    "Mo":2,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1200,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118,-8.25 ]
+    },
+    "properties": {
+    "Year":1815,
+    "Mo":4,
+    "Dy":10,
+    "Tsu":613,
+    "Eq":null,
+    "Name":"Tambora",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":7,
+    "Deaths":11000,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1816,
+    "Mo":7,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.242,-8.058 ]
+    },
+    "properties": {
+    "Year":1817,
+    "Mo":1,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ijen",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056,-8.119 ]
+    },
+    "properties": {
+    "Year":1817,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Raung",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.62,19.514 ]
+    },
+    "properties": {
+    "Year":1818,
+    "Mo":2,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Colima",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.65,54.516 ]
+    },
+    "properties": {
+    "Year":1820,
+    "Mo":3,
+    "Dy":1,
+    "Tsu":631,
+    "Eq":6650,
+    "Name":"Westdahl",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.881,-4.523 ]
+    },
+    "properties": {
+    "Year":1820,
+    "Mo":6,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Banda Api",
+    "Location":"Banda Sea",
+    "Country":"Pacific Ocean",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1822,
+    "Mo":3,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":50,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.058,-7.25 ]
+    },
+    "properties": {
+    "Year":1822,
+    "Mo":10,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Galunggung",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":4011,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1822,
+    "Mo":12,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":100,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.97,54.756 ]
+    },
+    "properties": {
+    "Year":1825,
+    "Mo":3,
+    "Dy":21,
+    "Tsu":654,
+    "Eq":null,
+    "Name":"Shishaldin",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1826,
+    "Mo":10,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.879,-7.2 ]
+    },
+    "properties": {
+    "Year":1826,
+    "Mo":10,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dieng Volcanic Complex",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1826,
+    "Mo":10,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.836,53.256 ]
+    },
+    "properties": {
+    "Year":1827,
+    "Mo":6,
+    "Dy":27,
+    "Tsu":663,
+    "Eq":6651,
+    "Name":"Avachinsky",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.836,53.256 ]
+    },
+    "properties": {
+    "Year":1827,
+    "Mo":8,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Avachinsky",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.841,-7.143 ]
+    },
+    "properties": {
+    "Year":1829,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Guntur",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1832,
+    "Mo":11,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1832,
+    "Mo":12,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":32,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.615,-3.522 ]
+    },
+    "properties": {
+    "Year":1833,
+    "Mo":11,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kaba",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":126,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.57,12.98 ]
+    },
+    "properties": {
+    "Year":1835,
+    "Mo":1,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Cosiguina",
+    "Location":"Nicaragua",
+    "Country":"Nicaragua",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Year":1838,
+    "Mo":2,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Gamalama",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.83,-33.62 ]
+    },
+    "properties": {
+    "Year":1839,
+    "Mo":2,
+    "Dy":12,
+    "Tsu":711,
+    "Eq":null,
+    "Name":"Unnamed",
+    "Location":"Chile-Is",
+    "Country":"Chile",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Year":1840,
+    "Mo":2,
+    "Dy":2,
+    "Tsu":718,
+    "Eq":null,
+    "Name":"Gamalama",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3,39.7 ]
+    },
+    "properties": {
+    "Year":1840,
+    "Mo":7,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ararat",
+    "Location":"Turkey",
+    "Country":"Turkey",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1900,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.82,-9.13 ]
+    },
+    "properties": {
+    "Year":1840,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Savo",
+    "Location":"Solomon Is-SW Pacifi",
+    "Country":"Solomon Is.",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.804,-10.386 ]
+    },
+    "properties": {
+    "Year":1840,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tinakula",
+    "Location":"Santa Cruz Is-SW Pac",
+    "Country":"Solomon Is.",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.217,30.443 ]
+    },
+    "properties": {
+    "Year":1841,
+    "Mo":4,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kuchinoerabujima",
+    "Location":"Ryukyu Is",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.341,-7.981 ]
+    },
+    "properties": {
+    "Year":1843,
+    "Mo":8,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lamongan",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1843,
+    "Mo":11,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":56,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.737,1.112 ]
+    },
+    "properties": {
+    "Year":1845,
+    "Mo":2,
+    "Dy":8,
+    "Tsu":741,
+    "Eq":1865,
+    "Name":"Soputan",
+    "Location":"Sulawesi-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.324,4.892 ]
+    },
+    "properties": {
+    "Year":1845,
+    "Mo":2,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":1867,
+    "Name":"Ruiz, Nevado del",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1000,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.666,63.983 ]
+    },
+    "properties": {
+    "Year":1845,
+    "Mo":9,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hekla",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6,-6.77 ]
+    },
+    "properties": {
+    "Year":1846,
+    "Mo":5,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tangkuban Parahu",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.35,14.95 ]
+    },
+    "properties": {
+    "Year":1847,
+    "Mo":4,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fogo",
+    "Location":"Cape Verde Is",
+    "Country":"Cape Verde",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.879,-7.2 ]
+    },
+    "properties": {
+    "Year":1847,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dieng Volcanic Complex",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1848,
+    "Mo":5,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":21,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.203,-4.271 ]
+    },
+    "properties": {
+    "Year":1850,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Rabaul",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Pyroclastic shield",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1853,
+    "Mo":7,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":34,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.83,24 ]
+    },
+    "properties": {
+    "Year":1853,
+    "Mo":10,
+    "Dy":29,
+    "Tsu":809,
+    "Eq":null,
+    "Name":"Unnamed",
+    "Location":"Taiwan-E of",
+    "Country":"Taiwan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.36,56.653 ]
+    },
+    "properties": {
+    "Year":1854,
+    "Mo":2,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sheveluch",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1854,
+    "Mo":2,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.565,50.861 ]
+    },
+    "properties": {
+    "Year":1854,
+    "Mo":6,
+    "Dy":27,
+    "Tsu":821,
+    "Eq":null,
+    "Name":"Alaid",
+    "Location":"Kuril Is",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Year":1856,
+    "Mo":3,
+    "Dy":2,
+    "Tsu":859,
+    "Eq":1995,
+    "Name":"Awu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2806,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.677,42.063 ]
+    },
+    "properties": {
+    "Year":1856,
+    "Mo":9,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hokkaido-Komagatake",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":25,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1858,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1860,
+    "Mo":4,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1860,
+    "Mo":8,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.809,13.579 ]
+    },
+    "properties": {
+    "Year":1861,
+    "Mo":5,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":2049,
+    "Name":"Dubbi",
+    "Location":"Africa-NE",
+    "Country":"Eritrea",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":106,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.316,64.416 ]
+    },
+    "properties": {
+    "Year":1861,
+    "Mo":5,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Grimsvotn",
+    "Location":"Iceland-NE",
+    "Country":"Iceland",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.4,0.32 ]
+    },
+    "properties": {
+    "Year":1861,
+    "Mo":12,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kie Besi",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":326,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1864,
+    "Mo":1,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":54,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.396,36.404 ]
+    },
+    "properties": {
+    "Year":1866,
+    "Mo":2,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santorini",
+    "Location":"Greece",
+    "Country":"Greece",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.618,-14.175 ]
+    },
+    "properties": {
+    "Year":1866,
+    "Mo":9,
+    "Dy":12,
+    "Tsu":958,
+    "Eq":null,
+    "Name":"Ofu-Olosega",
+    "Location":"Samoa-SW Pacific",
+    "Country":"United States",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.44,38.144 ]
+    },
+    "properties": {
+    "Year":1867,
+    "Mo":10,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Zaozan [Zaosan]",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.608,19.475 ]
+    },
+    "properties": {
+    "Year":1868,
+    "Mo":4,
+    "Dy":3,
+    "Tsu":971,
+    "Eq":2125,
+    "Name":"Mauna Loa",
+    "Location":"Hawaiian Is",
+    "Country":"United States",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.775,-8.542 ]
+    },
+    "properties": {
+    "Year":1869,
+    "Mo":7,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lewotobi",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.341,-7.981 ]
+    },
+    "properties": {
+    "Year":1869,
+    "Mo":8,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lamongan",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":8,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.37,2.3 ]
+    },
+    "properties": {
+    "Year":1870,
+    "Mo":8,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ruang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.573,-8.532 ]
+    },
+    "properties": {
+    "Year":1870,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Iliwerung",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.835,-15.389 ]
+    },
+    "properties": {
+    "Year":1870,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ambae",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.37,2.3 ]
+    },
+    "properties": {
+    "Year":1871,
+    "Mo":3,
+    "Dy":3,
+    "Tsu":1022,
+    "Eq":null,
+    "Name":"Ruang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.673,9.203 ]
+    },
+    "properties": {
+    "Year":1871,
+    "Mo":4,
+    "Dy":30,
+    "Tsu":1020,
+    "Eq":2179,
+    "Name":"Camiguin",
+    "Location":"Mindanao-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Year":1871,
+    "Mo":8,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Gamalama",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1871,
+    "Mo":12,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":4,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":30,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":4,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":170,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":4,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":9,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":11,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":200,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":12,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.182,48.873 ]
+    },
+    "properties": {
+    "Year":1872,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sinarka",
+    "Location":"Kuril Is",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.507,7.691 ]
+    },
+    "properties": {
+    "Year":1873,
+    "Mo":1,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ragang",
+    "Location":"Mindanao-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526,34.094 ]
+    },
+    "properties": {
+    "Year":1874,
+    "Mo":7,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Miyakejima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.993,14.002 ]
+    },
+    "properties": {
+    "Year":1874,
+    "Mo":7,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Taal",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -16.783,65.033 ]
+    },
+    "properties": {
+    "Year":1875,
+    "Mo":3,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Askja",
+    "Location":"Iceland-NE",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.436,-0.677 ]
+    },
+    "properties": {
+    "Year":1877,
+    "Mo":6,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Cotopaxi",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":340,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.447,-19.532 ]
+    },
+    "properties": {
+    "Year":1878,
+    "Mo":1,
+    "Dy":10,
+    "Tsu":1086,
+    "Eq":null,
+    "Name":"Yasur",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.203,-4.271 ]
+    },
+    "properties": {
+    "Year":1878,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":1095,
+    "Eq":6195,
+    "Name":"Rabaul",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Pyroclastic shield",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.13,53.43 ]
+    },
+    "properties": {
+    "Year":1878,
+    "Mo":8,
+    "Dy":29,
+    "Tsu":1109,
+    "Eq":6198,
+    "Name":"Okmok",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1879,
+    "Mo":2,
+    "Dy":4,
+    "Tsu":5480,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.38,-11.75 ]
+    },
+    "properties": {
+    "Year":1883,
+    "Mo":3,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karthala",
+    "Location":"Indian O-W",
+    "Country":"Comoros",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.423,-6.102 ]
+    },
+    "properties": {
+    "Year":1883,
+    "Mo":8,
+    "Dy":27,
+    "Tsu":1142,
+    "Eq":null,
+    "Name":"Krakatau",
+    "Location":"Indonesia",
+    "Country":"Indonesia",
+    "Type":"Caldera",
+    "VEI":6,
+    "Deaths":2000,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.43,59.363 ]
+    },
+    "properties": {
+    "Year":1883,
+    "Mo":10,
+    "Dy":6,
+    "Tsu":1143,
+    "Eq":null,
+    "Name":"Augustine",
+    "Location":"Alaska-SW",
+    "Country":"United States",
+    "Type":"Lava dome",
+    "VEI":4,
+    "Deaths":8,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.196,-6.137 ]
+    },
+    "properties": {
+    "Year":1883,
+    "Mo":12,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bagana",
+    "Location":"Bougainville-SW Paci",
+    "Country":"Papua New Guinea",
+    "Type":"Lava cone",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1885,
+    "Mo":4,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":74,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4,2.32 ]
+    },
+    "properties": {
+    "Year":1885,
+    "Mo":5,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":2347,
+    "Name":"Purace",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":1886,
+    "Mo":1,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.5,-38.12 ]
+    },
+    "properties": {
+    "Year":1886,
+    "Mo":6,
+    "Dy":10,
+    "Tsu":5777,
+    "Eq":null,
+    "Name":"Okataina",
+    "Location":"New Zealand",
+    "Country":"New Zealand",
+    "Type":"Lava dome",
+    "VEI":2,
+    "Deaths":153,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.63,-15.6 ]
+    },
+    "properties": {
+    "Year":1886,
+    "Mo":8,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Niuafo'ou",
+    "Location":"Tonga-SW Pacific",
+    "Country":"Tonga",
+    "Type":"Shield volcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1887,
+    "Mo":3,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":15,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.115,-5.519 ]
+    },
+    "properties": {
+    "Year":1888,
+    "Mo":3,
+    "Dy":13,
+    "Tsu":1175,
+    "Eq":null,
+    "Name":"Ritter Island",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.072,37.601 ]
+    },
+    "properties": {
+    "Year":1888,
+    "Mo":7,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bandaisan",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":461,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.491,3.138 ]
+    },
+    "properties": {
+    "Year":1889,
+    "Mo":9,
+    "Dy":6,
+    "Tsu":1181,
+    "Eq":6309,
+    "Name":"Banua Wuhu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.4,0.32 ]
+    },
+    "properties": {
+    "Year":1890,
+    "Mo":6,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kie Besi",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.07,-9.2 ]
+    },
+    "properties": {
+    "Year":1890,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Victory",
+    "Location":"New Guinea",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.539,0.686 ]
+    },
+    "properties": {
+    "Year":1892,
+    "Mo":5,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sorikmarapi",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":180,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Year":1892,
+    "Mo":6,
+    "Dy":7,
+    "Tsu":1197,
+    "Eq":null,
+    "Name":"Awu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1532,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.07,-19.75 ]
+    },
+    "properties": {
+    "Year":1892,
+    "Mo":8,
+    "Dy":30,
+    "Tsu":5608,
+    "Eq":null,
+    "Name":"Tofua",
+    "Location":"Tonga-SW Pacific",
+    "Country":"Tonga",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.618,-41.33 ]
+    },
+    "properties": {
+    "Year":1893,
+    "Mo":1,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Calbuco",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.244,37.735 ]
+    },
+    "properties": {
+    "Year":1893,
+    "Mo":6,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Azumayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.12,-16.25 ]
+    },
+    "properties": {
+    "Year":1894,
+    "Mo":10,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ambrym",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Pyroclastic shield",
+    "VEI":3,
+    "Deaths":10,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1895,
+    "Mo":5,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.976,-4.647 ]
+    },
+    "properties": {
+    "Year":1895,
+    "Mo":6,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karkar",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.862,31.934 ]
+    },
+    "properties": {
+    "Year":1895,
+    "Mo":10,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kirishimayama",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.094,-5.094 ]
+    },
+    "properties": {
+    "Year":1895,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dakataua",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.862,31.934 ]
+    },
+    "properties": {
+    "Year":1896,
+    "Mo":3,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kirishimayama",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.804,-10.386 ]
+    },
+    "properties": {
+    "Year":1897,
+    "Mo":3,
+    "Dy":26,
+    "Tsu":5629,
+    "Eq":null,
+    "Name":"Tinakula",
+    "Location":"Santa Cruz Is-SW Pac",
+    "Country":"Solomon Is.",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1897,
+    "Mo":5,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":350,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.936,1.5 ]
+    },
+    "properties": {
+    "Year":1899,
+    "Mo":11,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dona Juana",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":55,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":1899,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1900,
+    "Mo":1,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":25,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.862,31.934 ]
+    },
+    "properties": {
+    "Year":1900,
+    "Mo":2,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kirishimayama",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.281,37.647 ]
+    },
+    "properties": {
+    "Year":1900,
+    "Mo":7,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Adatarayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":72,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1901,
+    "Mo":5,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":5,
+    "Dy":5,
+    "Tsu":2881,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":23,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.18,13.33 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":5,
+    "Dy":7,
+    "Tsu":2873,
+    "Eq":null,
+    "Name":"Soufriere St. Vincent",
+    "Location":"W Indies",
+    "Country":"St. Vincent & the Grenadines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1680,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":5,
+    "Dy":8,
+    "Tsu":1288,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":28000,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":5,
+    "Dy":20,
+    "Tsu":2433,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":6,
+    "Dy":6,
+    "Tsu":5696,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":7,
+    "Dy":10,
+    "Tsu":5697,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.303,30.484 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":8,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Izu-Torishima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":125,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.166,14.809 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":8,
+    "Dy":30,
+    "Tsu":1291,
+    "Eq":null,
+    "Name":"Pelee",
+    "Location":"W Indies",
+    "Country":"Martinique",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1500,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.552,14.757 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":10,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santa Maria",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":6,
+    "Deaths":2500,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1902,
+    "Mo":12,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":16,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.38,-11.75 ]
+    },
+    "properties": {
+    "Year":1904,
+    "Mo":2,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karthala",
+    "Location":"Indian O-W",
+    "Country":"Comoros",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1905,
+    "Mo":3,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1905,
+    "Mo":8,
+    "Dy":4,
+    "Tsu":1326,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1906,
+    "Mo":4,
+    "Dy":4,
+    "Tsu":3413,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":350,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1906,
+    "Mo":11,
+    "Dy":28,
+    "Tsu":1346,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":6,
+    "Dy":8,
+    "Tsu":1356,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":6,
+    "Dy":19,
+    "Tsu":1357,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":6,
+    "Dy":27,
+    "Tsu":1358,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":7,
+    "Dy":9,
+    "Tsu":1359,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.525,-13.612 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":7,
+    "Dy":25,
+    "Tsu":1360,
+    "Eq":null,
+    "Name":"Savaii",
+    "Location":"Samoa-SW Pacific",
+    "Country":"Samoa",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.573,12.888 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":8,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Alayta",
+    "Location":"Africa-NE",
+    "Country":"Ethiopia",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.775,-8.542 ]
+    },
+    "properties": {
+    "Year":1907,
+    "Mo":9,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lewotobi",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.17,4.203 ]
+    },
+    "properties": {
+    "Year":1909,
+    "Mo":4,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":8158,
+    "Name":"Cameroon",
+    "Location":"Africa-W",
+    "Country":"Cameroon",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1909,
+    "Mo":9,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":221,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1910,
+    "Mo":7,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.993,14.002 ]
+    },
+    "properties": {
+    "Year":1911,
+    "Mo":1,
+    "Dy":30,
+    "Tsu":1392,
+    "Eq":8391,
+    "Name":"Taal",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1335,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1911,
+    "Mo":5,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1911,
+    "Mo":8,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1911,
+    "Mo":11,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.157,58.27 ]
+    },
+    "properties": {
+    "Year":1912,
+    "Mo":9,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Novarupta",
+    "Location":"Alaska Peninsula",
+    "Country":"United States",
+    "Type":"Caldera",
+    "VEI":6,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.2,-1.408 ]
+    },
+    "properties": {
+    "Year":1912,
+    "Mo":12,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Nyamulagira",
+    "Location":"Africa-C",
+    "Country":"Congo, DRC",
+    "Type":"Shield volcano",
+    "VEI":3,
+    "Deaths":20,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.62,19.514 ]
+    },
+    "properties": {
+    "Year":1913,
+    "Mo":1,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Colima",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":13,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Year":1913,
+    "Mo":3,
+    "Dy":14,
+    "Tsu":1407,
+    "Eq":2973,
+    "Name":"Awu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1913,
+    "Mo":6,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.12,-16.25 ]
+    },
+    "properties": {
+    "Year":1913,
+    "Mo":12,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ambrym",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Pyroclastic shield",
+    "VEI":3,
+    "Deaths":21,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Year":1914,
+    "Mo":1,
+    "Dy":12,
+    "Tsu":1412,
+    "Eq":2994,
+    "Name":"Aira",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":28,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.516,-5.576 ]
+    },
+    "properties": {
+    "Year":1914,
+    "Mo":1,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Witori",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":1916,
+    "Mo":3,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1916,
+    "Mo":7,
+    "Dy":3,
+    "Tsu":3147,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.914,-2.764 ]
+    },
+    "properties": {
+    "Year":1917,
+    "Mo":1,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lengai, Ol Doinyo",
+    "Location":"Africa-E",
+    "Country":"Tanzania",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.618,-41.33 ]
+    },
+    "properties": {
+    "Year":1917,
+    "Mo":4,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Calbuco",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.294,13.734 ]
+    },
+    "properties": {
+    "Year":1917,
+    "Mo":6,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":6877,
+    "Name":"San Salvador",
+    "Location":"El Salvador",
+    "Country":"El Salvador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":325,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.491,3.138 ]
+    },
+    "properties": {
+    "Year":1918,
+    "Mo":7,
+    "Dy":18,
+    "Tsu":1454,
+    "Eq":null,
+    "Name":"Banua Wuhu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Submarine volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.083,63.633 ]
+    },
+    "properties": {
+    "Year":1918,
+    "Mo":10,
+    "Dy":12,
+    "Tsu":1452,
+    "Eq":null,
+    "Name":"Katla",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Subglacial volcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.491,3.138 ]
+    },
+    "properties": {
+    "Year":1919,
+    "Mo":4,
+    "Dy":3,
+    "Tsu":3511,
+    "Eq":null,
+    "Name":"Banua Wuhu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Submarine volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1919,
+    "Mo":5,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":5110,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1919,
+    "Mo":5,
+    "Dy":22,
+    "Tsu":1476,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1920,
+    "Mo":7,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":33,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.633,13.813 ]
+    },
+    "properties": {
+    "Year":1920,
+    "Mo":10,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Izalco",
+    "Location":"El Salvador",
+    "Country":"El Salvador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.014,10.158 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Mo":3,
+    "Dy":2,
+    "Tsu":5720,
+    "Eq":10435,
+    "Name":"Cendres, Ile des",
+    "Location":"SE Asia",
+    "Country":"Vietnam",
+    "Type":"Submarine volcanoes",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.862,31.934 ]
+    },
+    "properties": {
+    "Year":1923,
+    "Mo":7,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kirishimayama",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.287,19.421 ]
+    },
+    "properties": {
+    "Year":1924,
+    "Mo":5,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kilauea",
+    "Location":"Hawaiian Is",
+    "Country":"United States",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.686,43.418 ]
+    },
+    "properties": {
+    "Year":1926,
+    "Mo":5,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tokachidake",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":144,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.686,43.418 ]
+    },
+    "properties": {
+    "Year":1926,
+    "Mo":9,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tokachidake",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.396,36.404 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Mo":1,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santorini",
+    "Location":"Greece",
+    "Country":"Greece",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":48,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.423,-6.102 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Mo":3,
+    "Dy":26,
+    "Tsu":1593,
+    "Eq":null,
+    "Name":"Krakatau",
+    "Location":"Indonesia",
+    "Country":"Indonesia",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.879,-7.2 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Mo":5,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dieng Volcanic Complex",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":40,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Year":1928,
+    "Mo":8,
+    "Dy":4,
+    "Tsu":1607,
+    "Eq":null,
+    "Name":"Paluweh",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":98,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.618,-41.33 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Mo":1,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Calbuco",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.677,42.063 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Mo":6,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hokkaido-Komagatake",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Mo":8,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.552,14.757 ]
+    },
+    "properties": {
+    "Year":1929,
+    "Mo":11,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santa Maria",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":200,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.423,-6.102 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Mo":3,
+    "Dy":17,
+    "Tsu":1624,
+    "Eq":null,
+    "Name":"Krakatau",
+    "Location":"Indonesia",
+    "Country":"Indonesia",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Mo":8,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Mo":9,
+    "Dy":11,
+    "Tsu":4218,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1930,
+    "Mo":12,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1369,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1931,
+    "Mo":8,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Mo":1,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.528,36.618 ]
+    },
+    "properties": {
+    "Year":1932,
+    "Mo":10,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kusatsu-Shiranesan",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 154.508,49.12 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Mo":1,
+    "Dy":8,
+    "Tsu":1657,
+    "Eq":null,
+    "Name":"Kharimkotan",
+    "Location":"Kuril Is",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.217,30.443 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Mo":12,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kuchinoerabujima",
+    "Location":"Ryukyu Is",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":8,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.056,12.769 ]
+    },
+    "properties": {
+    "Year":1933,
+    "Mo":12,
+    "Dy":25,
+    "Tsu":1666,
+    "Eq":null,
+    "Name":"Bulusan",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1936,
+    "Mo":7,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.729,-38.692 ]
+    },
+    "properties": {
+    "Year":1937,
+    "Mo":2,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Llaima",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.203,-4.271 ]
+    },
+    "properties": {
+    "Year":1937,
+    "Mo":5,
+    "Dy":29,
+    "Tsu":1698,
+    "Eq":10010,
+    "Name":"Rabaul",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Pyroclastic shield",
+    "VEI":4,
+    "Deaths":507,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1938,
+    "Mo":6,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.303,30.484 ]
+    },
+    "properties": {
+    "Year":1939,
+    "Mo":8,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Izu-Torishima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":1940,
+    "Mo":6,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526,34.094 ]
+    },
+    "properties": {
+    "Year":1940,
+    "Mo":7,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Miyakejima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":11,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.914,-2.764 ]
+    },
+    "properties": {
+    "Year":1940,
+    "Mo":7,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lengai, Ol Doinyo",
+    "Location":"Africa-E",
+    "Country":"Tanzania",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Mo":7,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1941,
+    "Mo":9,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.75,19.85 ]
+    },
+    "properties": {
+    "Year":1943,
+    "Mo":2,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Michoacan-Guanajuato",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Cinder cone",
+    "VEI":4,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.408,-0.92 ]
+    },
+    "properties": {
+    "Year":1943,
+    "Mo":4,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Azul, Cerro",
+    "Location":"Galapagos",
+    "Country":"Ecuador",
+    "Type":"Shield volcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.426,40.821 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":3,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Vesuvius",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":27,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.944,52.825 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":6,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Cleveland",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":8,
+    "Dy":20,
+    "Tsu":4227,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":8,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.879,-7.2 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Dieng Volcanic Complex",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":117,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1944,
+    "Mo":12,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Aira",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Mo":2,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Mo":10,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2,48.092 ]
+    },
+    "properties": {
+    "Year":1946,
+    "Mo":11,
+    "Dy":13,
+    "Tsu":1769,
+    "Eq":null,
+    "Name":"Sarychev Peak",
+    "Location":"Kuril Is",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Mo":1,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Mo":8,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":11,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.666,63.983 ]
+    },
+    "properties": {
+    "Year":1947,
+    "Mo":11,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hekla",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.573,-8.532 ]
+    },
+    "properties": {
+    "Year":1948,
+    "Mo":4,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Iliwerung",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93,-39.42 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Mo":1,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Villarrica",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":54,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.4,2.32 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Mo":5,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Purace",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":17,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.673,9.203 ]
+    },
+    "properties": {
+    "Year":1949,
+    "Mo":6,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Camiguin",
+    "Location":"Mindanao-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.673,9.203 ]
+    },
+    "properties": {
+    "Year":1950,
+    "Mo":9,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Camiguin",
+    "Location":"Mindanao-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":68,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1950,
+    "Mo":9,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.15,-8.95 ]
+    },
+    "properties": {
+    "Year":1951,
+    "Mo":1,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lamington",
+    "Location":"New Guinea",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":2942,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1951,
+    "Mo":8,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":7,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.673,9.203 ]
+    },
+    "properties": {
+    "Year":1951,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Camiguin",
+    "Location":"Mindanao-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":500,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.979,-8.991 ]
+    },
+    "properties": {
+    "Year":1951,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":1816,
+    "Eq":null,
+    "Name":"Kavachi",
+    "Location":"Solomon Is-SW Pacifi",
+    "Country":"Solomon Is.",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Mo":9,
+    "Dy":16,
+    "Tsu":1824,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Mo":9,
+    "Dy":17,
+    "Tsu":5928,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Mo":9,
+    "Dy":23,
+    "Tsu":1825,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Mo":9,
+    "Dy":24,
+    "Tsu":1826,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":31,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1952,
+    "Mo":9,
+    "Dy":26,
+    "Tsu":1827,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Mo":3,
+    "Dy":11,
+    "Tsu":1833,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Mo":3,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":64,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.85,32.1 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Mo":3,
+    "Dy":25,
+    "Tsu":5566,
+    "Eq":null,
+    "Name":"Kita-Bayonnaise",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Submarine volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1953,
+    "Mo":4,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.818,-3.613 ]
+    },
+    "properties": {
+    "Year":1954,
+    "Mo":8,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.07,-40.35 ]
+    },
+    "properties": {
+    "Year":1955,
+    "Mo":7,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Carran-Los Venados",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Pyroclastic cone",
+    "VEI":4,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Year":1955,
+    "Mo":10,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Aira",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.595,55.972 ]
+    },
+    "properties": {
+    "Year":1956,
+    "Mo":3,
+    "Dy":30,
+    "Tsu":1856,
+    "Eq":null,
+    "Name":"Bezymianny",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.693,53.13 ]
+    },
+    "properties": {
+    "Year":1957,
+    "Mo":3,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":4116,
+    "Name":"Vsevidof",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.394,34.724 ]
+    },
+    "properties": {
+    "Year":1957,
+    "Mo":10,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Izu-Oshima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1957,
+    "Mo":10,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":12,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.865,1.352 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Mo":7,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mahawu",
+    "Location":"Sulawesi-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.536,-16.829 ]
+    },
+    "properties": {
+    "Year":1958,
+    "Mo":10,
+    "Dy":7,
+    "Tsu":1882,
+    "Eq":null,
+    "Name":"Kuwae",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.117,-40.59 ]
+    },
+    "properties": {
+    "Year":1960,
+    "Mo":5,
+    "Dy":25,
+    "Tsu":1902,
+    "Eq":4227,
+    "Name":"Puyehue-Cordon Caulle",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.618,-41.33 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Mo":1,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Calbuco",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Mo":5,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Year":1961,
+    "Mo":8,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asamayama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.686,43.418 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Mo":6,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tokachidake",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Year":1962,
+    "Mo":12,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Gamalama",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.852,9.979 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":3,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Irazu",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":15,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.508,-8.343 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":3,
+    "Dy":18,
+    "Tsu":1942,
+    "Eq":null,
+    "Name":"Agung",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":1028,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":5,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.508,-8.343 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":5,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":4292,
+    "Name":"Agung",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":120,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93,-39.42 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":5,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Villarrica",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.375,-8.242 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":9,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Batur",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":9,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":7,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.852,9.979 ]
+    },
+    "properties": {
+    "Year":1963,
+    "Mo":12,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Irazu",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":40,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Mo":1,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Paluweh",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93,-39.42 ]
+    },
+    "properties": {
+    "Year":1964,
+    "Mo":3,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Villarrica",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":25,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.993,14.002 ]
+    },
+    "properties": {
+    "Year":1965,
+    "Mo":9,
+    "Dy":28,
+    "Tsu":1977,
+    "Eq":null,
+    "Name":"Taal",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":355,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.804,-10.386 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Mo":1,
+    "Dy":13,
+    "Tsu":5478,
+    "Eq":null,
+    "Name":"Tinakula",
+    "Location":"Santa Cruz Is-SW Pac",
+    "Country":"Solomon Is.",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Mo":4,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":215,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Mo":8,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Awu",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":39,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.914,-2.764 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Mo":8,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lengai, Ol Doinyo",
+    "Location":"Africa-E",
+    "Country":"Tanzania",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.324,10.83 ]
+    },
+    "properties": {
+    "Year":1966,
+    "Mo":11,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Rincon de la Vieja",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.914,-2.764 ]
+    },
+    "properties": {
+    "Year":1967,
+    "Mo":7,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lengai, Ol Doinyo",
+    "Location":"Africa-E",
+    "Country":"Tanzania",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1967,
+    "Mo":8,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.652,-63.001 ]
+    },
+    "properties": {
+    "Year":1967,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":1992,
+    "Eq":null,
+    "Name":"Deception Island",
+    "Location":"Antarctica",
+    "Country":"Antarctica",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Mo":4,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.703,10.463 ]
+    },
+    "properties": {
+    "Year":1968,
+    "Mo":7,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Arenal",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":80,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Mo":1,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.641,-8.891 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Mo":1,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Iya",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.202,19.077 ]
+    },
+    "properties": {
+    "Year":1969,
+    "Mo":3,
+    "Dy":21,
+    "Tsu":2872,
+    "Eq":null,
+    "Name":"Didicas",
+    "Location":"Luzon-N of",
+    "Country":"Philippines",
+    "Type":"Compound volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.666,63.983 ]
+    },
+    "properties": {
+    "Year":1970,
+    "Mo":5,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hekla",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.97,-45.9 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Mo":8,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hudson, Cerro",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.804,-10.386 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Mo":9,
+    "Dy":6,
+    "Tsu":2043,
+    "Eq":null,
+    "Name":"Tinakula",
+    "Location":"Santa Cruz Is-SW Pac",
+    "Country":"Solomon Is.",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Mo":9,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":10,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.83,28.57 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Mo":10,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"La Palma",
+    "Location":"Canary Is",
+    "Country":"Spain",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93,-39.42 ]
+    },
+    "properties": {
+    "Year":1971,
+    "Mo":10,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Villarrica",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":15,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.708,-21.244 ]
+    },
+    "properties": {
+    "Year":1972,
+    "Mo":6,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fournaise, Piton de la",
+    "Location":"Indian O-W",
+    "Country":"Reunion",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -20.266,63.416 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Mo":1,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Vestmannaeyjar",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Submarine volcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Paluweh",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.573,-8.532 ]
+    },
+    "properties": {
+    "Year":1973,
+    "Mo":12,
+    "Dy":null,
+    "Tsu":5761,
+    "Eq":null,
+    "Name":"Iliwerung",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":2,
+    "Dy":11,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":6,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Aira",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.036,36.921 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":7,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Niigata-Yakeyama",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Lava dome",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":8,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Aira",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":10,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1974,
+    "Mo":10,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":9,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.474,-0.38 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Marapi",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":80,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.703,10.463 ]
+    },
+    "properties": {
+    "Year":1975,
+    "Mo":6,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Arenal",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.341,-2.005 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Mo":8,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sangay",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Mo":8,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":119,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Mo":9,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1976,
+    "Mo":11,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":29,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.642,56.056 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Mo":8,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Klyuchevskoy",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1977,
+    "Mo":8,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.056,12.769 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Mo":7,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bulusan",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.552,14.757 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Mo":9,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santa Maria",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Mo":9,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":12,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Year":1978,
+    "Mo":10,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Toya",
+    "Location":"Hokkaido-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.976,-4.647 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Mo":3,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karkar",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.18,13.33 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Mo":4,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Soufriere St. Vincent",
+    "Location":"W Indies",
+    "Country":"St. Vincent & the Grenadines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Mo":7,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":9,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1979,
+    "Mo":9,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18,46.2 ]
+    },
+    "properties": {
+    "Year":1980,
+    "Mo":5,
+    "Dy":18,
+    "Tsu":3018,
+    "Eq":4876,
+    "Name":"St. Helens",
+    "Location":"US-Washington",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":57,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.666,63.983 ]
+    },
+    "properties": {
+    "Year":1980,
+    "Mo":8,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hekla",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Mo":3,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Mo":3,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.565,50.861 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Mo":4,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Alaid",
+    "Location":"Kuril Is",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Mo":5,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":372,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Year":1981,
+    "Mo":9,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Paluweh",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.228,17.36 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Mo":3,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":7221,
+    "Name":"Chichon, El",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Tuff cone",
+    "VEI":5,
+    "Deaths":1879,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.228,17.36 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Mo":4,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Chichon, El",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Tuff cone",
+    "VEI":5,
+    "Deaths":33,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.058,-7.25 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Mo":5,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Galunggung",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":68,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.228,17.36 ]
+    },
+    "properties": {
+    "Year":1982,
+    "Mo":5,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Chichon, El",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Tuff cone",
+    "VEI":5,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.642,56.056 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Mo":3,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Klyuchevskoy",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.601,-0.162 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Mo":7,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Colo",
+    "Location":"Sulawesi-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526,34.094 ]
+    },
+    "properties": {
+    "Year":1983,
+    "Mo":10,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":4990,
+    "Name":"Miyakejima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1984,
+    "Mo":9,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1984,
+    "Mo":10,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1985,
+    "Mo":5,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":70,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.324,4.892 ]
+    },
+    "properties": {
+    "Year":1985,
+    "Mo":11,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ruiz, Nevado del",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":23080,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":1986,
+    "Mo":7,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5,6.25 ]
+    },
+    "properties": {
+    "Year":1986,
+    "Mo":8,
+    "Dy":21,
+    "Tsu":5808,
+    "Eq":null,
+    "Name":"Oku Volcanic Field",
+    "Location":"Africa-W",
+    "Country":"Cameroon",
+    "Type":"Maar",
+    "VEI":3,
+    "Deaths":1700,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1986,
+    "Mo":10,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.394,34.724 ]
+    },
+    "properties": {
+    "Year":1986,
+    "Mo":11,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Izu-Oshima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.601,14.382 ]
+    },
+    "properties": {
+    "Year":1987,
+    "Mo":1,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Pacaya",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1987,
+    "Mo":4,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.881,-4.523 ]
+    },
+    "properties": {
+    "Year":1988,
+    "Mo":5,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Banda Api",
+    "Location":"Banda Sea",
+    "Country":"Pacific Ocean",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.703,10.463 ]
+    },
+    "properties": {
+    "Year":1988,
+    "Mo":7,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Arenal",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1988,
+    "Mo":7,
+    "Dy":30,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.586,-38.379 ]
+    },
+    "properties": {
+    "Year":1988,
+    "Mo":12,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Lonquimay",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.36,56.653 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":2,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sheveluch",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.314,-7.935 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":2,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kelud",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":32,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":3,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":4,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.65,-15.52 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":5,
+    "Dy":29,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Coropuna",
+    "Location":"Peru",
+    "Country":"Peru",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.552,14.757 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":7,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santa Maria",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Year":1990,
+    "Mo":10,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Asosan",
+    "Location":"Kyushu-Japan",
+    "Country":"Japan",
+    "Type":"Caldera",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.35,15.13 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Mo":6,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":5292,
+    "Name":"Pinatubo",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":6,
+    "Deaths":350,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.38,-11.75 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Mo":7,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karthala",
+    "Location":"Indian O-W",
+    "Country":"Comoros",
+    "Type":"Shield volcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.97,-45.9 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Mo":8,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Hudson, Cerro",
+    "Location":"Chile-S",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":1991,
+    "Mo":12,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Mo":1,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.702,12.506 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Mo":4,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Negro, Cerro",
+    "Location":"Nicaragua",
+    "Country":"Nicaragua",
+    "Type":"Cinder cone",
+    "VEI":3,
+    "Deaths":11,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.474,-0.38 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Mo":7,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Marapi",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.251,61.299 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Mo":9,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Spurr",
+    "Location":"Alaska-SW",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1992,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.37,1.22 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Mo":1,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Galeras",
+    "Location":"Colombia",
+    "Country":"Colombia",
+    "Type":"Complex volcano",
+    "VEI":2,
+    "Deaths":9,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":1993,
+    "Mo":2,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":75,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.447,-19.532 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":1,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Yasur",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":2,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.287,19.421 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":7,
+    "Dy":8,
+    "Tsu":5926,
+    "Eq":null,
+    "Name":"Kilauea",
+    "Location":"Hawaiian Is",
+    "Country":"United States",
+    "Type":"Shield volcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.203,-4.271 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":9,
+    "Dy":19,
+    "Tsu":2229,
+    "Eq":null,
+    "Name":"Rabaul",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Pyroclastic shield",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.47,-8.42 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":11,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Rinjani",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":31,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1994,
+    "Mo":11,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":60,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.447,-19.532 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Mo":2,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Yasur",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.35,14.95 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Mo":4,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fogo",
+    "Location":"Cape Verde Is",
+    "Country":"Cape Verde",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.601,14.382 ]
+    },
+    "properties": {
+    "Year":1995,
+    "Mo":4,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Pacaya",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.443,54.049 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Mo":1,
+    "Dy":2,
+    "Tsu":2392,
+    "Eq":null,
+    "Name":"Karymsky",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.622,19.023 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Mo":4,
+    "Dy":30,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Popocatepetl",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.132,10.412 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Mo":8,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kanlaon",
+    "Location":"Philippines-C",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.316,64.416 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Mo":9,
+    "Dy":30,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Grimsvotn",
+    "Location":"Iceland-NE",
+    "Country":"Iceland",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":1996,
+    "Mo":12,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":13,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Mo":1,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":6,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Mo":6,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Soufriere Hills",
+    "Location":"W Indies",
+    "Country":"Montserrat",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":22,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Mo":8,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Soufriere Hills",
+    "Location":"W Indies",
+    "Country":"Montserrat",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":1997,
+    "Mo":9,
+    "Dy":2,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Year":1999,
+    "Mo":1,
+    "Dy":20,
+    "Tsu":2880,
+    "Eq":null,
+    "Name":"Soufriere Hills",
+    "Location":"W Indies",
+    "Country":"Montserrat",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":1999,
+    "Mo":5,
+    "Dy":21,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.36,56.653 ]
+    },
+    "properties": {
+    "Year":1999,
+    "Mo":8,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sheveluch",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.598,-0.171 ]
+    },
+    "properties": {
+    "Year":1999,
+    "Mo":10,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Guagua Pichincha",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":1999,
+    "Mo":10,
+    "Dy":16,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526,34.094 ]
+    },
+    "properties": {
+    "Year":2000,
+    "Mo":6,
+    "Dy":27,
+    "Tsu":2340,
+    "Eq":5568,
+    "Name":"Miyakejima",
+    "Location":"Izu Is-Japan",
+    "Country":"Japan",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":2000,
+    "Mo":7,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.703,10.463 ]
+    },
+    "properties": {
+    "Year":2000,
+    "Mo":8,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Arenal",
+    "Location":"Costa Rica",
+    "Country":"Costa Rica",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":2000,
+    "Mo":11,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":2001,
+    "Mo":5,
+    "Dy":14,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":2001,
+    "Mo":7,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Year":2001,
+    "Mo":8,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Merapi",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2001,
+    "Mo":10,
+    "Dy":20,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Mo":1,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Mo":8,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":5659,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.656,-0.077 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Mo":11,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Reventador",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":2002,
+    "Mo":null,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":3,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Year":2003,
+    "Mo":7,
+    "Dy":12,
+    "Tsu":2694,
+    "Eq":null,
+    "Name":"Soufriere Hills",
+    "Location":"W Indies",
+    "Country":"Montserrat",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.95,-7.942 ]
+    },
+    "properties": {
+    "Year":2004,
+    "Mo":6,
+    "Dy":8,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tengger Caldera",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2004,
+    "Mo":10,
+    "Dy":24,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2005,
+    "Mo":1,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.63,13.853 ]
+    },
+    "properties": {
+    "Year":2005,
+    "Mo":10,
+    "Dy":1,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Santa Ana",
+    "Location":"El Salvador",
+    "Country":"El Salvador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Year":2006,
+    "Mo":5,
+    "Dy":20,
+    "Tsu":2877,
+    "Eq":null,
+    "Name":"Soufriere Hills",
+    "Location":"W Indies",
+    "Country":"Montserrat",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.056,12.769 ]
+    },
+    "properties": {
+    "Year":2006,
+    "Mo":6,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bulusan",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2006,
+    "Mo":7,
+    "Dy":18,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2006,
+    "Mo":8,
+    "Dy":17,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2007,
+    "Mo":3,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.508,52.177 ]
+    },
+    "properties": {
+    "Year":2008,
+    "Mo":8,
+    "Dy":8,
+    "Tsu":3587,
+    "Eq":null,
+    "Name":"Kasatochi",
+    "Location":"Aleutian Is",
+    "Country":"United States",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2008,
+    "Mo":8,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2010,
+    "Mo":1,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.633,63.633 ]
+    },
+    "properties": {
+    "Year":2010,
+    "Mo":3,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Eyjafjallajokull",
+    "Location":"Iceland-S",
+    "Country":"Iceland",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":2,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Year":2010,
+    "Mo":8,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Karangetang",
+    "Location":"Sangihe Is-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2010,
+    "Mo":11,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.056,12.769 ]
+    },
+    "properties": {
+    "Year":2011,
+    "Mo":2,
+    "Dy":23,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bulusan",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Year":2011,
+    "Mo":4,
+    "Dy":null,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Tungurahua",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.117,-40.59 ]
+    },
+    "properties": {
+    "Year":2011,
+    "Mo":6,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Puyehue-Cordon Caulle",
+    "Location":"Chile-C",
+    "Country":"Chile",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7,13.37 ]
+    },
+    "properties": {
+    "Year":2011,
+    "Mo":6,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Nabro",
+    "Location":"Africa-NE",
+    "Country":"Eritrea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":31,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Year":2011,
+    "Mo":12,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Gamalama",
+    "Location":"Halmahera-Indonesia",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Year":2013,
+    "Mo":8,
+    "Dy":10,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Paluweh",
+    "Location":"Lesser Sunda Is",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":5,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.392,3.17 ]
+    },
+    "properties": {
+    "Year":2013,
+    "Mo":9,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sinabung",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.48,35.893 ]
+    },
+    "properties": {
+    "Year":2014,
+    "Mo":9,
+    "Dy":27,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ontakesan",
+    "Location":"Honshu-Japan",
+    "Country":"Japan",
+    "Type":"Complex volcano",
+    "VEI":3,
+    "Deaths":55,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2015,
+    "Mo":7,
+    "Dy":31,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.392,3.17 ]
+    },
+    "properties": {
+    "Year":2017,
+    "Mo":4,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sinabung",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":2017,
+    "Mo":6,
+    "Dy":6,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.588,-3.608 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":1,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Kadovar",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":1,
+    "Dy":13,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Mayon",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.588,-3.608 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":2,
+    "Dy":9,
+    "Tsu":5676,
+    "Eq":null,
+    "Name":"Kadovar",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.835,-15.389 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":3,
+    "Dy":30,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ambae",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Shield volcano",
+    "VEI":3,
+    "Deaths":4,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":6,
+    "Dy":3,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Fuego",
+    "Location":"Guatemala",
+    "Country":"Guatemala",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":201,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":8,
+    "Dy":25,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.12,-16.25 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":12,
+    "Dy":15,
+    "Tsu":null,
+    "Eq":10382,
+    "Name":"Ambrym",
+    "Location":"Vanuatu-SW Pacific",
+    "Country":"Vanuatu",
+    "Type":"Pyroclastic shield",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.423,-6.102 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":12,
+    "Dy":22,
+    "Tsu":5699,
+    "Eq":null,
+    "Name":"Krakatau",
+    "Location":"Indonesia",
+    "Country":"Indonesia",
+    "Type":"Caldera",
+    "VEI":3,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Year":2018,
+    "Mo":12,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":10383,
+    "Name":"Etna",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":1,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.392,3.17 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":5,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sinabung",
+    "Location":"Sumatra",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.33,-5.05 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":6,
+    "Dy":26,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Ulawun",
+    "Location":"New Britain-SW Pac",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":6,
+    "Dy":28,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Manam",
+    "Location":"New Guinea-NE of",
+    "Country":"Papua New Guinea",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":7,
+    "Dy":3,
+    "Tsu":5913,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":8,
+    "Dy":28,
+    "Tsu":5716,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.18,-37.52 ]
+    },
+    "properties": {
+    "Year":2019,
+    "Mo":12,
+    "Dy":9,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Whakaari/White Island",
+    "Location":"New Zealand",
+    "Country":"New Zealand",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":22,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.993,14.002 ]
+    },
+    "properties": {
+    "Year":2020,
+    "Mo":1,
+    "Dy":12,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Taal",
+    "Location":"Luzon-Philippines",
+    "Country":"Philippines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":39,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.341,-2.005 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":3,
+    "Dy":5,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Sangay",
+    "Location":"Ecuador",
+    "Country":"Ecuador",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.18,13.33 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":4,
+    "Dy":9,
+    "Tsu":5905,
+    "Eq":null,
+    "Name":"Soufriere St. Vincent",
+    "Location":"W Indies",
+    "Country":"St. Vincent & the Grenadines",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":5,
+    "Dy":19,
+    "Tsu":5912,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.25,-1.52 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":5,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":10545,
+    "Name":"Nyiragongo",
+    "Location":"Africa-C",
+    "Country":"Congo, DRC",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":32,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.83,28.57 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":9,
+    "Dy":19,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"La Palma",
+    "Location":"Canary Is",
+    "Country":"Spain",
+    "Type":"Stratovolcano",
+    "VEI":3,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":2021,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":51,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.382,-20.536 ]
+    },
+    "properties": {
+    "Year":2022,
+    "Mo":1,
+    "Dy":15,
+    "Tsu":5824,
+    "Eq":null,
+    "Name":"Hunga Tonga-Hunga Ha'apai",
+    "Location":"Tonga-SW Pacific",
+    "Country":"Tonga",
+    "Type":"Submarine volcano",
+    "VEI":5,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.622,19.023 ]
+    },
+    "properties": {
+    "Year":2022,
+    "Mo":6,
+    "Dy":22,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Popocatepetl",
+    "Location":"Mexico",
+    "Country":"Mexico",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":1,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2022,
+    "Mo":10,
+    "Dy":9,
+    "Tsu":5865,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Year":2022,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":5868,
+    "Eq":null,
+    "Name":"Stromboli",
+    "Location":"Italy",
+    "Country":"Italy",
+    "Type":"Stratovolcano",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Year":2022,
+    "Mo":12,
+    "Dy":4,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Semeru",
+    "Location":"Java",
+    "Country":"Indonesia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.196,-6.137 ]
+    },
+    "properties": {
+    "Year":2023,
+    "Mo":7,
+    "Dy":7,
+    "Tsu":null,
+    "Eq":null,
+    "Name":"Bagana",
+    "Location":"Bougainville-SW Paci",
+    "Country":"Papua New Guinea",
+    "Type":"Lava cone",
+    "VEI":2,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.36,56.653 ]
+    },
+    "properties": {
+    "Year":2024,
+    "Mo":8,
+    "Dy":17,
+    "Tsu":5923,
+    "Eq":10744,
+    "Name":"Sheveluch",
+    "Location":"Kamchatka",
+    "Country":"Russia",
+    "Type":"Stratovolcano",
+    "VEI":4,
+    "Deaths":null,
+    "Hazard":"Volcano"
+    }
+  }
+]
+}
